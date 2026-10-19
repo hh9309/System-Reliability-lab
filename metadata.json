@@ -1,0 +1,8 @@
+{
+  "name": "系统可靠性 WebApp 实验室",
+  "description": "专业级系统可靠性工程 WebApp 实验室：故障分布与威布尔拟合、可靠性框图 (RBD)、故障树 (FTA)、六大工业实战案例、SciPy 算法引擎与预防性维修成本优化白皮书。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
